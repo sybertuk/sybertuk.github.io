@@ -2,7 +2,7 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [ИП Яковлев Антон Юрьевич]
-show_downloads: true
+show_downloads: false
 description: [Оказание услуг разработки программного обеспечения в г. Смоленск Российская Федерация]
 github:
   zip_url: https://github.com/sybertuk/sybertuk.github.io/blob/6f9de3730f71641df2b34ba75fcec67245dac604/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80-%D0%BE%D1%84%D0%B5%D1%80%D1%82%D0%B0%20%D0%98%D0%9F%20%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2.pdf
